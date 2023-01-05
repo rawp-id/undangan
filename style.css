@@ -1,0 +1,29 @@
+.jumbotron{
+    background-image: url(https://png.pngtree.com/background/20210709/original/pngtree-watercolor-floral-background-flowers-simple-picture-image_910380.jpg);
+    background-size: cover;
+    height: 720px;
+    text-align: center;
+}
+.jumbotron .display-5{
+    margin-top: 200px;
+}
+.profil{
+    text-align: center;
+}
+table{
+    text-align: left;
+}
+#kehadiran{
+    margin-top: 80px;
+}
+/* #undangan{
+    background-image: url(undangan.jpg);
+    background-size: cover;
+    width: 100%;
+    text-align: center;
+}
+.textundangan{
+   text-align: center;
+   font-size: 50px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+} */
